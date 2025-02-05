@@ -2,7 +2,8 @@ package com.test.task;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import com.test.task.exceptions.InvalidAgeException;
+import com.test.task.errors.ExceptionsTask;
+import com.test.task.exception.InvalidAgeException;
 import org.junit.jupiter.api.Test;
 
 class ExceptionsTaskTest {

@@ -1,6 +1,6 @@
-package com.test.task;
+package com.test.task.errors;
 
-import com.test.task.exceptions.InvalidAgeException;
+import com.test.task.exception.InvalidAgeException;
 
 public class ExceptionsTask {
 

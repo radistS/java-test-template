@@ -2,6 +2,7 @@ package com.test.task;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import com.test.task.stream.StreamTask;
 import java.util.Arrays;
 import java.util.List;
 

@@ -2,6 +2,7 @@ package com.test.task;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import com.test.task.collection.CollectionsTask;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
