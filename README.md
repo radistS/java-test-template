@@ -1,2 +1,6 @@
-# java-test-template
-java-test-template
+# Maven Java Tasks
+
+Этот проект содержит набор задач по темам **Collections Framework**, **Stream API and Lambda** и **Errors and Exceptions**. Каждая задача представлена в виде Java-класса с методами, которые необходимо реализовать. Кроме того, для каждой задачи подготовлены JUnit-тесты, которые помогут проверить корректность решения.
+
+
+
